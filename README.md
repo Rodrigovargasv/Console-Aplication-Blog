@@ -17,7 +17,7 @@ CRUD .NET E C#.
 * Configure e instale o SQL Server e docker neste tutorial: https://balta.io/blog/sql-server-docker?utm_source=github&utm_medium=2805-repo&utm_campaign=readme
 * Use uma Idea .Net preferencialmente o Visual Studio ou Visual Studio Code.
 * Execute o aplicativo  Pogram usando a Idea:
-* Lei o arquivo deixado na pasta Leia-me, para instalar as bibliotecas necessarias e criar la também sem o codigo sql para criar a base de dados e as tabelas
+* Leia o arquivo deixado na pasta Leia-me, para instalar as bibliotecas necessarias e também o codigo sql para criar a base de dados e as tabelas
 
 
 # Referências do projeto.
